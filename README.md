@@ -14,3 +14,13 @@ On chromium based browser, you may need to manually add the "javascript:" in fro
 ## How to use ?
 When you are on a page, just click on the bookmark, and it automatically shows the current URL as a QRcode. You can change the URL as you want using the text area.</br>
 When you have finished, just use the "X" button to close the popup window.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Thanks to :
+
+- datalog for it's MIT licensed [Pure javascript QR Code generator](https://github.com/datalog/qrcode-svg)
